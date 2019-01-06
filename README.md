@@ -1,6 +1,8 @@
 Painting with Finger Gestures (Python + OpenCV)
 
-![header](/img/header.png)
+
+
+[![header](/img/header.png)](http://google.com/)
 
 ![finished](/img/finished.png)
 
