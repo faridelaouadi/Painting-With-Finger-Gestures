@@ -4,6 +4,7 @@ Motivation
 
 Current Progress
 ----------------
+![](painting.gif)
 
 1) The user's hand gets tracked when they are wearing a high visibility glove (i experimented with other methods like training a haar cascade to recognise hands but to no avail.)
 2) When the user has a single finger extended, they are able to paint using their selected colour
